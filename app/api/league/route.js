@@ -13,22 +13,22 @@ export async function GET(reqest) {
       stamina: "300,000",
     },
     {
-      color: "Ggold Drgon",
+      name: "Ggold Drgon",
       level: "Lv1",
       stamina: "300,000",
     },
     {
-      color: "Desker",
+      name: "Desker",
       level: "Lv1",
       stamina: "30,000",
     },
     {
-      color: "Desker",
+      name: "Desker",
       level: "Lv2",
       stamina: "100,000",
     },
     {
-      color: "Desker",
+      name: "Desker",
       level: "Lv3",
       stamina: "150,000",
     },
