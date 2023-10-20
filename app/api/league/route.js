@@ -20,7 +20,7 @@ export async function GET(reqest) {
     {
       color: "Desker",
       level: "Lv1",
-      stamina: "50,000",
+      stamina: "30,000",
     },
     {
       color: "Desker",
